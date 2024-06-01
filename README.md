@@ -1,1 +1,1 @@
-Javascript Assignment "INPUT-USER STATEMENT"
+Javascript Assignment "USER-INPUT & CONDITIONAL STATEMENT"
